@@ -20,8 +20,9 @@ public class Palindrome {
         boolean isPalindrome = false;
         int copyNumber = number;
         int reversedNumber = 0;
+        int digit;
         while (copyNumber>0){
-            int digit = copyNumber % 10;
+            digit = copyNumber % 10;
             reversedNumber = reversedNumber * 10 + digit;
             copyNumber = copyNumber / 10;
         }
