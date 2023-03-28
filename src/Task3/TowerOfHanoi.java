@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TowerOfHanoi {
     public static void main(String[] args) {
-        List<Integer> tower1 = new ArrayList<>(Arrays.asList(1, 2, 3,4,5,6,7,8,9,10,11,12,13,14));
+        List<Integer> tower1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14));
         List<Integer> tower2 = new ArrayList<>();
         List<Integer> tower3 = new ArrayList<>();
         System.out.print(tower1 + " " + tower2 + " " + tower3 + "\n");
@@ -39,21 +39,21 @@ public class TowerOfHanoi {
 
         while (true) {
             move((ArrayList) tower1, (ArrayList) tower3);
-            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())){
-                System.out.println("отладка этап1");
+            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())) {
+                //System.out.println("отладка этап1");
                 break;
             }
             move((ArrayList) tower1, (ArrayList) tower2);
-            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())){
-                System.out.println("отладка этап2");
+            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())) {
+                //System.out.println("отладка этап2");
                 break;
             }
             move((ArrayList) tower2, (ArrayList) tower3);
-            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())){
-                System.out.println("отладка этап3");
+            if ((tower1.isEmpty() && tower2.isEmpty()) || (tower1.isEmpty() && tower3.isEmpty())) {
+                //System.out.println("отладка этап3");
                 break;
             }
-            System.out.print("iter: " + counter + " " + tower1 + " " + tower2 + " " + tower3 + "\n");
+            //System.out.print("iter: " + counter + " " + tower1 + " " + tower2 + " " + tower3 + "\n");
             counter++;
         }
     }
