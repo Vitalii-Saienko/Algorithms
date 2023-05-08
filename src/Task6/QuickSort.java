@@ -1,8 +1,7 @@
 package Task6;
+//QUICK SORT (n * Log n) - the fastest
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Objects;
 import java.util.Random;
 
 /*
@@ -11,7 +10,7 @@ Given an array of integers. The numbers in the array are in random order.
 2. Transform the array in a way that elements smaller than the base go to the left of the array, and larger ones are to the right.
 Note: after the algorithm has run, you should know where the reference element is located.
  */
-public class Main {
+public class QuickSort {
     public static void main(String[] args) {
         int[] array = new int[7];
         Random random = new Random();
