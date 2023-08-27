@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47cdfe12-2e9b-43fb-9acc-46d242f707c3" name="Changes" comment="added AVL tree with demo">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/FindNumberWithoutPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome/FindNumberWithoutPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task14/AVLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task14/AVLDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/EstimateTimeComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestCommonPrefix/EstimateTimeComplexity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/FindLongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestCommonPrefix/FindLongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/towerOfHanoi/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/FindElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/FindElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/FunctionX_N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/FunctionX_N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5/DigitInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionPart2/DigitInReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionPart2/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task6/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task7/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayTask/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task7/Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayTask/Array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task8/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionPart3/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task9/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task9/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task9/Task2CountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/Task2CountSteps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MihyFWje3xALQ4pmSKVFZdRiPC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.AVLDemo">
+    <configuration name="AVLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="avlTree.AVLDemo" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="avlTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dijkstraAlgorithm.DijkstraAlgorithm" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dijkstraAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedyAlgorithm.LinkedList.Main" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedyAlgorithm.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="node.NodeTest" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="node.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedyAlgorithm.Vacation.OurTrip" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedyAlgorithm.Vacation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AVLDemo" />
+        <item itemvalue="Application.NodeTest" />
+        <item itemvalue="Application.DijkstraAlgorithm" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OurTrip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47cdfe12-2e9b-43fb-9acc-46d242f707c3" name="Changes" comment="" />
+      <created>1678256563936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678256563936</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1678270102333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678270102333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1678270189181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678270189181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modified while cycle">
+      <created>1678786390674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678786390674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added home-task3 - tower of Hanoi">
+      <created>1680030902286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680030902286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added home-task3 - tower of Hanoi">
+      <created>1680031308913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680031308913</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added home-task4 - powMethod; findElementsInArray">
+      <created>1680208754128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680208754128</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added home-task5 - recursion">
+      <created>1681058938046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681058938046</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added home-task6 - recursion and merge">
+      <created>1682277717764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682277717764</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added home-task7 - array to number and back">
+      <created>1682930359388</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682930359388</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added home-task7 - array to number and back - using String">
+      <created>1683012353528</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683012353528</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added home-task8">
+      <created>1683565370409</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683565370409</updated>
+    </task>
+    <task id="LOCAL-00012" summary="renamed">
+      <created>1683565454516</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683565454516</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added home-work: task1 Queue implementation; task2 recursion">
+      <created>1684172929360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684172929360</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added home-work: LinkedList">
+      <created>1684823634079</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684823634079</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added class Demo">
+      <created>1684828655783</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684828655783</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added homework - greedy algorithms and listMode">
+      <created>1685371759375</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685371759375</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added homework - greedy algorithms and listMode">
+      <created>1685371804974</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685371804974</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added homework - Dijkstra Algorithm">
+      <created>1685946017980</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685946017980</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added homework - iterative tree traversal, finding height of tree">
+      <created>1686605155057</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686605155057</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added deleteNode method">
+      <created>1687189708087</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687189708087</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added AVL tree with demo">
+      <created>1687807955662</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687807955662</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="modified while cycle" />
+    <MESSAGE value="added home-task3 - tower of Hanoi" />
+    <MESSAGE value="added home-task4 - powMethod; findElementsInArray" />
+    <MESSAGE value="added home-task5 - recursion" />
+    <MESSAGE value="added home-task6 - recursion and merge" />
+    <MESSAGE value="added home-task7 - array to number and back" />
+    <MESSAGE value="added home-task7 - array to number and back - using String" />
+    <MESSAGE value="added home-task8" />
+    <MESSAGE value="renamed" />
+    <MESSAGE value="added home-work: task1 Queue implementation; task2 recursion" />
+    <MESSAGE value="added home-work: LinkedList" />
+    <MESSAGE value="added class Demo" />
+    <MESSAGE value="added homework - greedy algorithms and listMode" />
+    <MESSAGE value="added homework - Dijkstra Algorithm" />
+    <MESSAGE value="added homework - iterative tree traversal, finding height of tree" />
+    <MESSAGE value="added deleteNode method" />
+    <MESSAGE value="added AVL tree with demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="added AVL tree with demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
